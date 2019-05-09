@@ -1,0 +1,83 @@
+{
+  "nav":{
+    "nav1":{
+      "login":["我的账户","我的订单","地址管理","我的专区","我的优惠券","登录"]
+    },
+    "nav2":{
+      "list":["硬件","软件","商务","教育","以旧换新","领劵中心"],
+      "list2":["订单跟踪","30天退换货"],
+      "childlist0":["Suface","电脑与平板","Xbox+游戏","混合现实","配件"],
+      "childlist1":["Office","Windows","Apps and Windows 10游戏","Visual Studio","Microsoft Complete","其他软件与服务"]
+    }
+  },
+  "images":["images/lunbo1.jpg","images/lunbo2.jpg","images/lunbo3.jpg","images/lunbo4.jpg","images/lunbo5.jpg"],
+  "sideNavInner":["全新 Surface Studio 2", "Surface Headphones", "Surface Go", "Surface Pro 6", "Surface Laptop 2", "Surface Book 2", "认证翻新Surface", "Xbox+游戏", "Office", "Windows", "混合现实"],
+  "blockNav":{
+    "blockNavImg":["images/blockNavImg1.jpg","images/blockNavImg2.jpg","images/blockNavImg3.jpg"],
+    "description":["无 Wi-fi，也自在。带 LTE 增强版的 Surface Go，网络连接不受限", "Xbox One S 1TB 精选机型，选赠品套餐，得《盗贼之海》定制T恤", "全新升级：现支持多部 PC/Mac、平板和手机，家庭版多达6人共享"],
+    "more":["立即购买 >","立即购买 >","立即购买 >"]
+  },
+  "sliderList":{
+    "images":["images/listContainerInner1.png","images/listContainerInner2.png","images/listContainerInner3.png","images/listContainerInner4.png","images/listContainerInner5.png"],
+    "title":["Surface Laptop 2","Surface Pro 6","Surface Book 2","Surface Book 2","微软 HoloLens 2"],
+    "description":["独具匠心，彰显自我","随心所欲，百变菁英","性能巨匠","英特尔 4415Y/8GB/128GB/WiFi","混合现实商用就绪"],
+    "Price":["¥ 9,728","¥ 6,988","¥ 9,628","¥ 2,478"]
+  },
+  "productChannels":{
+    "productChannel1":{
+      "channelTitle":"Surface",
+      "inner":"卓越生产力，非凡创造力<br>Surface 全明星系列震撼登陆",
+      "innerImg":"https://imgazure.microsoftstore.com.cn/medias/HomePage2017SurfaceGuide-Media?context=bWFzdGVyfGltYWdlc3wyNDY5MjB8aW1hZ2UvcG5nfGltYWdlcy9oMjQvaDYzLzEwMDM3MTkyNjU0ODc4LnBuZ3xhZmY5ZGMyODkxM2U0YTkxYzAyM2YzOWUwOTI4N2NhOGQ3MjVlOWZkZjIyOWU0OGY4YWQ0NDY4ZmRkZTQwZjUy",
+      "listImg":["https://imgazure.microsoftstore.com.cn/medias/HomePage2017ProductSurface-01?context=bWFzdGVyfGltYWdlc3wyMDQ1NjB8aW1hZ2UvcG5nfGltYWdlcy9oM2UvaDU3LzEwMDg4MTI5ODIyNzUwLnBuZ3w5YzhlNjI5OTc4NjJhZDYzOWI3M2FhYmM1OTU2MjcwZTczNzI1MGFjMWI0MmRlZDExNWZmOTk2MTIxNTAxOWEy","https://imgazure.microsoftstore.com.cn/medias/HomePage2017ProductSurface-02?context=bWFzdGVyfGltYWdlc3wyNTQ3M3xpbWFnZS9wbmd8aW1hZ2VzL2g0NS9oYjEvMTAwODgxMjk4NTU1MTgucG5nfDNhM2FhNzQyYWQyZjg3NjY0MTEzYzE1NzdlYjliZTgwNTRhYzE2NGRlZjBlMzdmOTVhYzZlMWRhZjllMmIzZjU","https://imgazure.microsoftstore.com.cn/medias/HomePage2017ProductSurface-03?context=bWFzdGVyfGltYWdlc3w4MDYxMXxpbWFnZS9wbmd8aW1hZ2VzL2g5Mi9oOGIvMTAwODgxMjk4ODgyODYucG5nfDM2YWU5ODA0NjQ5ZWRkZDk2ZmVhMjZjYmI5ZjllNzBhMmNiNTQxYzM2Yjg1NWQ4OGY3ODBhMzllZGQ2YzJjNGM"],
+      "title":["全新 Surface Studio 2","Surface Pro（第五代）","全新 Surface Go"],
+      "description":["超越你对创意工作室的想象","更轻薄，更灵活","赋予便携新能量"],
+      "Price":["¥ 29,108","¥ 5,738","¥ 2,908"]
+    },
+    "productChannel2":{
+      "channelTitle":"Office",
+      "inner":"专注高效办公20年<br>选择Office，<br>成就更高生产力",
+      "innerImg":"https://imgazure.microsoftstore.com.cn/medias/HomePage2017OfficeGuide-Media?context=bWFzdGVyfGltYWdlc3wzMDU5NXxpbWFnZS9wbmd8aW1hZ2VzL2g5OS9oYTcvMTAwODgxMjg2NzU4NzAucG5nfGU4ZjI1MWRkOWIxYjAyM2YzOTdhZjc1ZTg4M2E4NTc0NmIyZWE5ZWM5NmFjZGIyMWRhZmY3OTEyZWY4NzA4YzA",
+      "listImg":["https://imgazure.microsoftstore.com.cn/medias/HomePage2017ProductOffice-02?context=bWFzdGVyfGltYWdlc3wxMDY0NnxpbWFnZS9wbmd8aW1hZ2VzL2g4ZC9oMWYvMTAwODgxMjk3MjQ0NDYucG5nfGI5OTEwOWExNzA2OTg3Zjg4MWY3YjUxZTY3MDZmZTVhYjk5ODA3ZGJkZDEzNTZlMGIzMjg2ZTI2ZmEzOWQxZmQ","https://imgazure.microsoftstore.com.cn/medias/HomePage2017ProductOffice-02?context=bWFzdGVyfGltYWdlc3wxMTU0NXxpbWFnZS9wbmd8aW1hZ2VzL2g5ZS9oZDUvMTAwODgxMjk3NTcyMTQucG5nfGMxMjRmN2EzMjRmZmNjZDM0YjMyNzg4ZmJiY2Q5ZWYzMzZjNDA4OWQxOGE1ZTZjMjZjZDBlMWFkNGZkMWM2NTE","https://imgazure.microsoftstore.com.cn/medias/HomePage2017ProductOffice-03?context=bWFzdGVyfGltYWdlc3wzODUyMnxpbWFnZS9wbmd8aW1hZ2VzL2gzYy9oYzAvMTAwODgxMjk3ODk5ODIucG5nfDMyNjk0NzQ2MzBiOTg0YTA3NTc4MWJlYmNmODA1NjZmYTQzY2YyNmI0ZmNhNGQwMDdmZGEzYTUwZmM4ZGVjZTI"],
+      "title":["Office 365 个人版","Office 365 家庭版","Office 家庭和学生版 2019"],
+      "description":["可在多部设备上安装，享持续更新","可供多达6位用户分享，享持续更新","2019 版经典应用，一次购买，永久使用"],
+      "Price":["¥ 398","¥ 498","¥ 748"],
+      "tag":["面向对象","多人共享","兼容 PC/Mac"]
+    },
+    "productChannel3":{
+      "channelTitle":"Xbox",
+      "inner":"更纤薄、更时尚、更高清<br>打造畅快游戏体验",
+      "innerImg":"https://imgazure.microsoftstore.com.cn/medias/HomePage2017XboxGuide-Media?context=bWFzdGVyfGltYWdlc3wyNDcxNzl8aW1hZ2UvcG5nfGltYWdlcy9oZTgvaGM5LzEwMDg4MTI4NzQxNDA2LnBuZ3xkYzI0MjIzOTk4ZDhhMjc4YTY2YTIxODc3NTE1MThkOGM3NjAwYmQ2MzQ4ZWEzOGQ2NjkzN2RlZTUwZjI1Njk2",
+      "listImg":["https://imgazure.microsoftstore.com.cn/medias/HomePage2017ProductXbox-01?context=bWFzdGVyfGltYWdlc3w5MjE3OXxpbWFnZS9wbmd8aW1hZ2VzL2g5NC9oMjIvMTAwODgxMjk5MjEwNTQucG5nfDNiMDQyNjAxMjJiYTgzYmJlZGJlZjA1Yjg4Njg0YTRlYzhkODliODFkOGJjNTAxZDhmOTg5ZDQ3Y2FiMWFmOTk","https://imgazure.microsoftstore.com.cn/medias/HomePage2017ProductXbox-02?context=bWFzdGVyfGltYWdlc3wxMjUzOTB8aW1hZ2UvcG5nfGltYWdlcy9oNzkvaDNhLzEwMDg4MTI5OTUzODIyLnBuZ3wzY2IyMDY1YzM1ZWI2Y2U5ODg5NmM2Y2JjNmFmMDZiMDFjZTk1MTdjNDcyNmRjODdiOGQwOGRjODdlYjFmMTI1","https://imgazure.microsoftstore.com.cn/medias/HomePage2017ProductXbox-03?context=bWFzdGVyfGltYWdlc3wyMTEwMTd8aW1hZ2UvcG5nfGltYWdlcy9oYTEvaGZkLzEwMDg4MTI5OTg2NTkwLnBuZ3xkM2EwMDNiYTgzYTg5NmZlMjYwOWU3NjE4ZmYyOWNmYzZkYWU2MTE5ODMzOTVkZGMyOGEyMjkyZDk3MTZkMDQ5"],
+      "title":["Xbox One X 1TB 冰雪白特别版","Xbox One S 1TB 双手柄套装","Xbox 无线控制器"],
+      "description":["真 4K 60 帧高清，感受真实的力量","购机赠地平线 Style 卫衣，限量50件","个性外观，难忘触感"],
+      "Price":["¥ 3,819","¥ 2,628","¥ 369"],
+      "tag":["新品","新品"]
+    },
+    "productChannel4":{
+      "channelTitle":"电脑与配件",
+      "inner":"精选品牌<br>Windows 10电脑与配件",
+      "innerImg":"https://imgazure.microsoftstore.com.cn/medias/HomePage2017ComputerGuide-Media?context=bWFzdGVyfGltYWdlc3w0NDY4MHxpbWFnZS9wbmd8aW1hZ2VzL2gyYS9oODMvMTAwODgxMjg5MzgwMTQucG5nfDc5MTRiOGYyNGE5NmYzMTdjZGJlMjU1NGQ2Y2JiYzMwMDhkNDdlMjVkZTk2ZWJiZTFmYTI5NDY2N2YzYzMzMTY",
+      "listImg":["https://imgazure.microsoftstore.com.cn/medias/HomePage2017ProductComputer-01?context=bWFzdGVyfGltYWdlc3w5ODA0NnxpbWFnZS9wbmd8aW1hZ2VzL2hhOS9oOTgvMTAwODgxMjk2MjYxNDIucG5nfDY4OGQyMmM5NGE5MjRjMWRjOWZiNThjMGQ2NzU1YmFlNWRmODIyYmMzYmJlNzdhMTI0OTllMDA3MjM3NGVlOGE","https://imgazure.microsoftstore.com.cn/medias/HomePage2017ProductComputer-02?context=bWFzdGVyfGltYWdlc3wxMTQ2OTB8aW1hZ2UvcG5nfGltYWdlcy9oYjcvaGY1LzEwMDg4MTI5NjU4OTEwLnBuZ3wxM2YzZWM1NzE4YTIxOWI1YjBjMzk3NTIzYjRhZDRjY2I1NWY1NzllMDA4Y2U5MjljNGUxN2U4NWQ2Zjg3Zjc3","https://imgazure.microsoftstore.com.cn/medias/HomePage2017ProductComputer-03?context=bWFzdGVyfGltYWdlc3w3NTg1MXxpbWFnZS9wbmd8aW1hZ2VzL2g4MC9oYzEvMTAwODgxMjk2OTE2NzgucG5nfGJlNmFjMmE4YzI4N2YyOTFkYzliNWMzNjhmNzZlMTY4Nzc5ZDhkOWNlMWI2NTRlODcxNmFjMTc0YTM4N2Q0NzY"],
+      "title":["Azure Kinect DK","微软 Sculpt 无线便携鼠标","微软 Sculpt 无线便携鼠标"],
+      "description":["用于构建高级计算机视觉和语音模型的开发工具包","Windows 按钮可快速查看“开始”菜单，蓝影追踪技术，适用于多种表面","支持 USB 和蓝牙两种连接方式，侧键可自定义，控制更精准"],
+      "Price":["¥ 2,988","¥ 139","¥ 719"],
+      "tag":["新品"]
+    }
+  },
+  "appsChannel":{
+    "channelTitle":"热门Windows 10 游戏及应用",
+    "appList":{
+      "app1":{
+        "img":"//store-images.s-microsoft.com/image/apps.2050.14343301090572358.2000000000007864205.da7d6a7f-5e66-439b-82e9-e5c23f17f739",
+        "name":"极限竞速：地平线 4 标准版",
+        "stars":{
+          "star_icon":"https://imgazure.microsoftstore.com.cn/_ui/images/homepage/stars.png",
+          "progress":"94%"
+        }
+      }
+    }
+  }
+
+
+
+}
